@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "diagram",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["--yes", "serve", "NotificationSystem", "-p", "8899", "--no-clipboard"],
+      "port": 8899
+    }
+  ]
+}
